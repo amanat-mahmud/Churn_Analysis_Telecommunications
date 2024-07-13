@@ -62,7 +62,7 @@ The detailed presentation slides for this project can be found [here](https://gi
 2. Pivot table analysis.
 3. Power Query and DAX.
 4. Data visualization.
-5. Conditional and clalculated column.
+5. Conditional and calculated column.
 6. Importance of data quality.
 7. Data storytelling.
 8. Sharpened analytical and problem-solving abilities.
