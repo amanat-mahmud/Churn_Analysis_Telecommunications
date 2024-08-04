@@ -53,7 +53,7 @@ Additional findings include higher churn rates among senior citizens, non-marrie
 8. Leverage active referral demographics
 
 ## 📌 Project Presentation
-[![Churn Analysis in Telecommunications](https://github.com/amanat-mahmud/Churn_Analysis_Telecommunications/blob/main/cover.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7218977939076308993/)
+[![Churn Analysis in Telecommunications](https://github.com/amanat-mahmud/Churn_Analysis_Telecommunications/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_customerretention-telecomindustry-dataanalytics-activity-7222654426568699904-SwIX?utm_source=share&utm_medium=member_desktop)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Churn_Analysis_Telecommunications/blob/main/presentation.pdf)
